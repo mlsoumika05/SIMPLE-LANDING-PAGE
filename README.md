@@ -4,7 +4,5 @@ A simple demo video along with screenshots are attached:
 
 
 https://github.com/mlsoumika05/SIMPLE-LANDING-PAGE/assets/134679466/0cc6ef11-56de-4ad5-89cb-677b8b921190
-
-![landingpagess1](https://github.com/mlsoumika05/SIMPLE-LANDING-PAGE/assets/134679466/11c03a78-0ed9-4ee2-bad8-7b2274b3f8e5)
-
-![landingpagess2](https://github.com/mlsoumika05/SIMPLE-LANDING-PAGE/assets/134679466/438c60ce-b5b4-45cc-a77c-bae8ad0cfe3b)
+![landingpagess1](https://github.com/mlsoumika05/SIMPLE-LANDING-PAGE/assets/134679466/7405b537-1713-4717-b16e-ae625d3fcb81)
+![landingpagess2](https://github.com/mlsoumika05/SIMPLE-LANDING-PAGE/assets/134679466/27539617-ebe4-459c-9f36-35753f3216aa)
