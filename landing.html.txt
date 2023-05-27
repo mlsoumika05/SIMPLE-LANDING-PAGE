@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <TITLE>travel</TITLE>
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+   <link rel="stylesheet" href="landing.css" >
+   </head>
+   <body>
+    <div class="container">
+        <nav class="nav">
+            <div class="logo">VTRAVEL</div>
+            <div class="menu">
+               <button><a href="#">HOME</a></button>
+               <button><a href="#">Hill stations</a></button>
+               <button> <a href="#">Exciting offers</a></button>
+                <button><a href="#">Our sites</a></button>
+                <button><a href="#">Contact Us</a></button>
+                <button><a href="#">About</a></button>
+            </div>
+            <div class="register">
+            <button><a href="#">Register</a></button>
+            <button><a href="#">Sign Up</a></button>
+            <button><a href="#">Sign In</a></button>
+        </div>
+        <section class="hdi">
+            <span>"DISCOVER THE WORLD WITH US"</span>
+            <br>
+            <br>
+            <br>
+            <h1>INTERNATIONAL TRAVEL AGENCY</h1>
+            <br>
+            <button><a href="#">Book your Trip</a></button>
+        </section>
+        </div>
+    
+        </div></nav>
+   </body>
+   </html>
